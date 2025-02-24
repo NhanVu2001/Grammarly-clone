@@ -2,7 +2,7 @@
 # EEET2582 - Group assignment - Group 5
 ## Grosana application
 
-Grosana is a tool helping user to proof reading their documents by checking grammar, vocabulary by ultizing AI technology. This application is expected to assist people who are conducting academic researches, especially for non-native English speakers. The advantage  of this app is that it is free, compared to other existing players like Grammarly and Quillbot. Depending on customer's demand, the app still offer advanced subscription plans to unlock advanced features.
+Grosana is a tool helping user to proof reading their documents by checking grammar, vocabulary by utilizing AI technology. This application is expected to assist people who are conducting academic researches, especially for non-native English speakers. The advantage  of this app is that it is free, compared to other existing players like Grammarly and Quillbot. Depending on customer's demand, the app still offer advanced subscription plans to unlock advanced features.
 ## Features
 
 - Upload documents in .docx format
